@@ -17,7 +17,7 @@ public class TVShows
 				return title;
 			}
 
-		public void setTitle(String title)
+		public void setTitle(int i, String title)
 			{
 				this.title = title;
 			}
